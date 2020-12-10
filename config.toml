@@ -10,7 +10,7 @@ summaryLength = "10"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = ["fr"] # desable language from here
 
 
 ############################# Plugins ##############################
@@ -61,12 +61,12 @@ top_header = true
 
 # Preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
@@ -81,7 +81,7 @@ map_marker = "images/marker.png" # marker size 37*55 px
 
 # cookies
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
   
 ############################# social site ########################
@@ -116,7 +116,7 @@ link = "#"
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 home = "Home"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
@@ -202,12 +202,12 @@ url = "research"
 
 
 ################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
+[Languages.es]
+languageName = "ES"
+languageCode = "es-es"
+contentDir = "content/es"
+weight = 1
+home = "Inicio"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
 
@@ -216,75 +216,75 @@ copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefi
 ################### French navigation ####################
 
 # main menu
-[[Languages.fr.menu.main]]
-name = "À propos"
+[[Languages.es.menu.main]]
+name = "Acerca"
 url = "about"
 weight = 1
 
-[[Languages.fr.menu.main]]
-name = "Cours"
+[[Languages.es.menu.main]]
+name = "Cursos"
 url = "course"
 weight = 2
 
-[[Languages.fr.menu.main]]
+[[Languages.es.menu.main]]
 weight = 3
-name = "Pages"
+name = "Páginas"
 hasChildren = true
 
-  [[Languages.fr.menu.main]]
+  [[Languages.es.menu.main]]
   parent = "Pages"
   name = "teacher"
   url = "teacher"
 
-  [[Languages.fr.menu.main]]
+  [[Languages.es.menu.main]]
   parent = "Pages"
   name = "notice"
   url = "notice"
 
-  [[Languages.fr.menu.main]]
+  [[Languages.es.menu.main]]
   parent = "Pages"
   name = "Évènement"
   url = "event"
 
-  [[Languages.fr.menu.main]]
+  [[Languages.es.menu.main]]
   parent = "Pages"
   name = "Cursus"
   url = "scholarship"
 
-  [[Languages.fr.menu.main]]
+  [[Languages.es.menu.main]]
   parent = "Pages"
   name = "research"
   url = "research"
   
-[[Languages.fr.menu.main]]
+[[Languages.es.menu.main]]
 name = "blog"
 url = "blog"
 weight = 4
   
-[[Languages.fr.menu.main]]
-name = "Contact"
+[[Languages.es.menu.main]]
+name = "Contacto"
 url = "contact"
 weight = 5
 
 
 # footer menu
 
-[[Languages.fr.menu.footer]]
+[[Languages.es.menu.footer]]
 name = "teacher"
 url = "teacher"
 
-[[Languages.fr.menu.footer]]
+[[Languages.es.menu.footer]]
 name = "notice"
 url = "notice"
 
-[[Languages.fr.menu.footer]]
+[[Languages.es.menu.footer]]
 name = "event"
 url = "event"
 
-[[Languages.fr.menu.footer]]
+[[Languages.es.menu.footer]]
 name = "scholarship"
 url = "scholarship"
 
-[[Languages.fr.menu.footer]]
+[[Languages.es.menu.footer]]
 name = "research"
 url = "research"
