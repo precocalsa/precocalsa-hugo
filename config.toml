@@ -8,8 +8,10 @@ paginate = "6"
 summaryLength = "10"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
+# Site's default language, which will load first with your site load.
+DefaultContentLanguage = "es"
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = ["en"] # desable language from here
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -97,7 +99,7 @@ weight = 2
 
 ########################### Default parameters ######################
 [params]
-logo = "images/logo.png"
+logo = "images/logo-precocalsa.png"
 logo_footer = "images/logo-alt.png"
 # top header
 top_header = true
@@ -105,9 +107,9 @@ top_header = true
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@bexer.com"
+address = "Pol. Ind Valdemuel. Avda.Tastueña, 5. Épila (Zaragoza)"
+mobile = "+34 976 603 620"
+email = "precocalsa@precocalsa.es"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -165,7 +167,7 @@ link = "https://instagram.com/themefisher"
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 3
 home = "Home"
 # footer content
 footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit. Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit."
@@ -173,12 +175,12 @@ footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm 
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
 
 
-################################### French language #####################################
+################################### Spanish language #####################################
 [Languages.es]
 languageName = "ES"
 languageCode = "es-es"
 contentDir = "content/es"
-weight = 2
+weight = 1
 home = "Inicio"
 # footer content
 footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit. Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit."
