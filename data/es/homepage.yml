@@ -82,7 +82,7 @@ banner_feature:
 
 ################################## about ####################################
 about:
-  enable : true
+  enable : false
   subtitle : "About Us"
   title : "We Are Dynamic Team and Business Agency"
   content : "Excepteur sint occaecat cupidatat non proident sunt iculpa qui officia deserunt mollit anim est. laborum sed perspiciatis unde omnis natus error sit voluptatem accusantium."
@@ -121,7 +121,7 @@ funfacts :
 
 ################################# feature ############################################
 feature:
-  enable : true
+  enable : false
   subtitle : "Why Choose Us"
   title : "Why They Choose Bexar"
   image_webp : "images/feature/feature.webp"
@@ -155,11 +155,11 @@ team:
 ################################# project ############################################
 project:
   enable : true
-  subtitle : "Case Study"
-  title : "Bexar Case Studies"
+  subtitle : "Algunas obras realizadas con nuestros productos prefabricados"
+  title : "Obras destacadas"
   button:
     enable : true
-    label : "more projects"
+    label : "Más proyectos"
     link : "project"
   # project item comes from "content/*/project" folder
 
@@ -190,7 +190,7 @@ testimonial:
 
 ################################# blog ################################################
 cta:
-  enable : true
+  enable : false
   title : "Bexar give the smart solution for your business"
   bg_image_webp : "images/backgrounds/cta-lg.webp"
   bg_image : "images/backgrounds/cta-lg.jpg"

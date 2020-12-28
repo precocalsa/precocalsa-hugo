@@ -52,12 +52,12 @@ link = "plugins/search/search.js"
 ########################### navigation ################################
 # main menu
 [[menu.main]]
-name = "About"
+name = "Nosotros"
 url = "about"
 weight = 2
 
 [[menu.main]]
-name = "Service"
+name = "Productos"
 url = "service"
 weight = 3
 
@@ -67,14 +67,9 @@ url = "blog"
 weight = 4
 
 [[menu.main]]
-name = "Team"
+name = "Equipo"
 url = "team"
 weight = 6
-
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 7
 
 [[menu.main]]
 weight = 8
@@ -104,8 +99,8 @@ logo_footer = "images/logo-alt.png"
 # top header
 top_header = true
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Prefabricados de hormigón"
+author = "Montera34"
 # contact info
 address = "Pol. Ind Valdemuel. Avda.Tastueña, 5. Épila (Zaragoza)"
 mobile = "+34 976 603 620"
@@ -121,18 +116,18 @@ search = true
 
 # Preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "get a quote"
+label = "Contacto"
 link = "contact"
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
@@ -183,6 +178,6 @@ contentDir = "content/es"
 weight = 1
 home = "Inicio"
 # footer content
-footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit. Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit."
+footer_content = "Constituida en 2002, con domicilio en Epila (Zaragoza). Dispone de 38.000 m2 de terreno industrial, de los cuales 11.000 m2 son de nave industrial. Con la reciente ampliación (Diciembre 06), ha duplicado la capacidad de producción. Se ha pasado de 12 a 24 pistas de pretensado. Con esta ampliación la capacidad de producción es de 35.000 m2 de placa al mes."
 # copyright
 copyright = "Copyright &copy; 2020"
