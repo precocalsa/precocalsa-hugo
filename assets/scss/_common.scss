@@ -48,8 +48,11 @@ select {
   }
 }
 
-a:hover {
+a {
   color: $primary-color;
+}
+a:hover {
+  color: $precocalsa-green;
 }
 
 a.text-white,
