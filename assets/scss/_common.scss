@@ -229,7 +229,8 @@ a h5 {
 }
 
 .bg-gray-white {
-  background-image: linear-gradient(to right, $gray 45%, $white 0%);
+  // background-image: linear-gradient(to right, $gray 45%, $white 0%);
+  background: none;
 }
 
 .bg-white-gray {

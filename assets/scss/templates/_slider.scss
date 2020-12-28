@@ -23,6 +23,15 @@
       right: 35px;
     }
   }
+  .container {
+    p {
+      font-size: 140%;
+      color: $text-color-dark;
+      font-weight: 800;
+      text-shadow: 1px 1px 1px white; 
+    }
+    
+  }
 }
 
 /* /hero slider */

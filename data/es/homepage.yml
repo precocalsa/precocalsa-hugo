@@ -141,7 +141,7 @@ feature:
 ################################# service ############################################
 service:
   enable : true
-  subtitle : "Productos destacados"
+  subtitle : "Pefabricados de hormigón para todos los usos"
   title : "Nuestros productos"
   # service item comes from "content/*/service" folder
 
