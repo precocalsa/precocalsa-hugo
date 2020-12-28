@@ -6,8 +6,8 @@ slider:
     - subtitle : "We are here to"
       title : "Planning Business"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/banner-1.webp"
-      bg_image : "images/slider/banner-1.jpg"
+      # bg_image_webp : "images/slider/banner-1.webp"
+      bg_image : "images/slider/precocalsa29a.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -99,22 +99,22 @@ funfacts :
   enable : true
   funfacts_item :
     # fanfacts item loop
-    - name : "project done"
+    - name : "proyectos realizados"
       count : "50"
       icon : "fa-bullseye" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
       
     # fanfacts item loop
-    - name : "Years Experience"
-      count : "25"
+    - name : "años de experiencia"
+      count : "36"
       icon : "fa-calendar" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
       
     # fanfacts item loop
-    - name : "Awards Win"
+    - name : "premios recibidos"
       count : "250"
       icon : "fa-trophy" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
       
     # fanfacts item loop
-    - name : "Happy Coustomers"
+    - name : "clientes satisfechos"
       count : "500"
       icon : "fa-smile-o" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
 
@@ -141,8 +141,8 @@ feature:
 ################################# service ############################################
 service:
   enable : true
-  subtitle : "Best Service"
-  title : "Service We Provide"
+  subtitle : "Productos destacados"
+  title : "Nuestros productos"
   # service item comes from "content/*/service" folder
 
 ################################# team ##############################################
