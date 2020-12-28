@@ -147,7 +147,7 @@ service:
 
 ################################# team ##############################################
 team:
-  enable : true
+  enable : false
   subtitle : "Our Team"
   title : "We Are Dynamic Team and <br> Business Agency"
   # team member comes from "content/*/team" folder
@@ -202,6 +202,6 @@ cta:
 ################################# blog ################################################
 blog:
   enable : true
-  subtitle : "Latest News"
-  title : "Learn From Bexar"
+  subtitle : "Lo último en precocalsa"
+  title : "Noticias"
   # blog post comes from "content/*/blog" folder
