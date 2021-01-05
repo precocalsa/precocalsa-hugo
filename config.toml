@@ -1,5 +1,5 @@
 ########################### Default configuration ######################
-baseURL = "https://examplesite.com/"
+baseURL = "/"
 title = "Precocalsa"
 theme = "bexar-hugo"
 # post pagination
@@ -136,6 +136,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+# gmap_api = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d745.3152749214223!2d-0.8837821528587955!3d41.65010037895135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd5914e8e1f4d74b%3A0x2baa075e3cb53945!2zNDHCsDM5JzAwLjQiTiAwwrA1Mic1OS45Ilc!5e0!3m2!1ses!2ses!4v1589478988088!5m2!1ses!2ses"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
