@@ -13,12 +13,10 @@ icon: "fa-hospital-o" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icon
 type: "service"
 ---
 
-La placa Alveolar, es un elemento autoportante de hormigón pretensado que, debido a su gran capacidad, puede ser empleada en grandes vanos y sobrecargas. La placa alveolar es usada principalmente en edificacion industrial y comercial, grandes naves industriales, parkings, pasos de carretera, etc, obras que en general requieren un forjado adecuado para grandes luces y cargas.
-placa alveolar
+La placa alveolar es un elemento de hormigón pretensado que debido a sus características resistentes puede ser empleada para grandes luces y sobrecargas. Se usa principalmente en edificación industrial y comercial, como naves industriales, parkings, etc., aunque también es posible usarla en obra civil y, en general, en forjados de obras en las que se necesiten unas prestaciones resistentes elevadas. Así mismo, se pueden emplear nuestras placas alveolares para satisfacer requisitos especiales de comportamiento en servicio, de forma que son una buena solución para ambientes agresivos. Dependiendo del tipo de obra se puede colocar con o sin capa de compresión. Todas nuestras placas alveolares son autoportantes, por lo que en ejecución no se necesita apuntalamiento, aspecto que reduce los costes de construcción por reducción de mano de obra y disminución de los tiempos de trabajo.
 
+A sus altas prestaciones resistentes se añade también una resistencia al fuego que va desde los 60 hasta los 240 minutos, con lo que en conjunto nuestras placas alveolares suponen un elemento resistente de 1ª opción en gran cantidad de estructuras.
 
-placa alveolarEs completamente autoportante por lo que no son necesarios apuntalamiento. Al igual que el resto de nuestras placas autoportantes, la placa alveolar proporciona una reducción del coste de mano de obra, una mayor velocidad de ejecución y una obra más limpia y segura en comparación con el sistema tradicional. Dependiendo del tipo de obra se puede utilizar con y sin capa de compresión
+Precocalsa fabrica placas alveolares de `15`, `20`, `25`, `30`, `40` y `50 cm` de canto, siendo el ancho estándar de `1,20 m`, pudiendo ser suministrada también en cortes oblicuos y anchos variables para ajustarse a la anchura y forma real del forjado, llegando a longitudes de hasta `19 m`.
 
-Precocalsa suministra Placa Alveolar pretensada de cantos 15, 20, 25, 30, 40 y 50 cm en un ancho estandar de 1,20 m. La placa alveolar también se fabrica en versión machihembrada de 14 y 20 cm para cerramiento de naves industriales.
-
-placa alveolar
+También se fabrican placas alveolares para cerramiento mediante placa alveolar machihembrada, en cantos de `15` y `20 cm`, de uso tanto en edificación industrial como residencial, con acabado de hormigón fratasado para la cara exterior.

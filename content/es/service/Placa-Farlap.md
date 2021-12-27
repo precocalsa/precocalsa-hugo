@@ -12,49 +12,12 @@ icon: "fa-building" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
 type: "service"
 ---
 
-## EVOLUCIÓN DE LA ALVEOLAR
+La placa Farlap es un tipo de prelosa pretensada constituida por cuatro nervios verticales que dejan entre ellos la formación de dos senos y que se rellenan con una bovedilla interior de poliestireno, de forma que el aspecto inferior de la placa es el mismo que el de una alveolar convencional. Constituye forjados compuestos con unas excelentes prestaciones resistentes, usándose fundamentalmente en edificación residencial, ya que es una inmejorable solución para forjados con cargas y luces claramente superiores a las que se pueden resolver con forjados unidireccionales in situ, manteniendo un peso muy similar a éstos y consiguiendo igualmente forjados planos, sin necesidad de vigas de cuelgue. También se usa en edificación industrial, en forjados de naves con sobrecargas y luces importantes. Nuestra placas Farlap son autoportantes para longitudes de hasta 7,50 m, lo que implica, al igual que con las placas alveolares, una mejora de los rendimientos de trabajo y de costes de ejecución.
 
-La nueva placa de forjado FARLAP tiene un peso de 180 kg/m2 , siendo la [placa ALVEOLAR](Placa-alveolar) más ligera del mercado. Con capa de compresión obtenemos un peso total de forjado de 360 kg/m2, en 25+5 de canto. Su ligereza de transporte y elevación la hacen más competitiva que la placa alveolar clásica, pudiéndose utilizar grúas torre normales de obra pues una placa de 5,5 x 1,2 m pesa 1200 kg.
-farlap : forjado alveolar resistente y ligero en acero pretensado
-LA MAYOR VENTAJA
+Los forjados realizados con nuestras placas Farlap tienen un elevado comportamiento resistente al fuego, desde los 90 hasta los 180 minutos, lo que unido a la posibilidad de ejecución de forjados planos hacen de nuestras placas Farlap un elemento especialmente de referencia para solucionar forjados de sótanos y parkings.
 
-farlap : forjado alveolar resistente y ligero en acero pretensadoCompletamente AUTOPORTANTE por lo que el forjado se prepara muy rápidamente, evitando la lenta colocación de sopandas, viguetas, bovedillas y tapes.
-Las longitudes máximas aprox a las que podemos llegar son las siguientes:
+Nuestras placas Farlap pueden formar forjados compuestos de diversos cantos, siendo el más habitual el de 25+5 cm, que a su vez es el menor que se puede realizar, aunque la gama de cantos posibles va desde éste hasta el más alto de 45+15 cm, con cantos intermedios que se van incrementando en alturas de 5 cm. Siempre la placa Farlap es la misma, variando exclusivamente el espesor de la bovedilla interior de poliestireno.
 
-* Canto forjado 25+5 - Longitud Placa 8,50 mts.
-* Canto forjado 30+5 - Longitud Placa 9,50 mts.
-* Canto forjado 35+5 - Longitud Placa 11 mts.
+Es importante saber que las características de su comportamiento a esfuerzo rasante son las más favorables posibles, ya que la unión de los nervios verticales con el hormigón in situ se realiza mediante engarce en cola de milano, aspecto fundamental que nos distingue de otras prelosas de la competencia.
 
-El forjado ha sido ensayado a flexión, cortante, esfuerzo rasante y reparto transversal de cargas.
-
-## COLOCACIÓN
-
-**farlap :** forjado alveolar resistente y ligero en acero pretensado
-
-Puede fabricarse en anchos de 1,2 m o menores. En obra se añaden los negativos, el mallazo, y el hormigón de la capa de compresión solidarizando todos los nervios.
-
-Una cola de milano favorece la unión con la capa de compresión y sirve para la pinza de elevación
-farlap : forjado alveolar resistente y ligero en acero pretensado
-
-## APLICACIONES
-
-farlap : forjado alveolar resistente y ligero en acero pretensado
-
-Tiene las mismas que las placas alveolares tradicionales, por ejemplo: para los forjados industriales, sobre muros de carga en chalets adosados, apoyadas en tableros de de enconfrado de jácenas unidireccionales quedando la estructura plana por debajo, etc
-
-## FÁCIL ELEVACIÓN CON GRÚA TORRE
-
-Con la placa FARLAP podemos tener un canto normal de 26 cm, y un peso de forjado terminado IGUAL al tradicional de viguetas y bovedillas al que sustituye.
-Las Farlap pueden utilizarse para forjados "sanitarios" o cubiertas inclinadas con aislamiento térmico incorporado.
-
-## ZUNCHO DE BORDE
-
-farlap : forjado alveolar resistente y ligero en acero pretensado
-
-El gran tamaño de los alvéolos, nos permite extraer bovedillas de poliestireno en obra e introducir un zuncho o viga de borde en la misma placa; que servirá para soportar el peso del cerramiento de la fachada sin aumentar el tipo de armado de la placa. Así el constructor, se ahorra el encofrado del zuncho de borde y su tabica exterior.
-
-## ESTRUCTURA PLANA
-
-farlap : forjado alveolar resistente y ligero en acero pretensado
-
-Puede sustituir en forjados planos tanto a la vigueta y bovedilla como al forjado realizado insitu. El peso propio es el mismo en los tres casos.
+Debido a su sección y geometría se pueden ofrecer soluciones constructivas muy útiles, como pueden ser la realización de huecos mediante perchas de hormigón, como es el caso de huecos de escaleras o instalaciones, zunchos de borde insertados en el alveolo simplemente retirando la bovedilla, etc. Todos estas soluciones pueden ser consultadas y resueltas por nuestro departamento técnico, que podrá orientar al técnico con la opción más adecuada para el problema que se presente, tanto en proyecto como en obra.
