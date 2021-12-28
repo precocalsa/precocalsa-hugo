@@ -201,7 +201,7 @@ cta:
 
 ################################# blog ################################################
 blog:
-  enable : true
+  enable : false
   subtitle : "Lo último en precocalsa"
   title : "Noticias"
   # blog post comes from "content/*/blog" folder
