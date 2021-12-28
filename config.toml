@@ -62,14 +62,19 @@ url = "service"
 weight = 3
 
 [[menu.main]]
-weight = 8
-name = "Pages"
-hasChildren = true
+name = "PRoyectos"
+url = "project"
+weight = 4
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "Project"
-  url = "project"
+# [[menu.main]]
+# weight = 8
+# name = "Pages"
+# hasChildren = true
+
+#   [[menu.main]]
+#   parent = "Pages"
+#   name = "Project"
+#   url = "project"
 
 # footer menu
 [[menu.footer]]
