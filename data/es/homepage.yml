@@ -99,24 +99,24 @@ funfacts :
   enable : true
   funfacts_item :
     # fanfacts item loop
-    - name : "proyectos realizados"
-      count : "50"
-      icon : "fa-bullseye" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+    - name : "m² de terreno"
+      count : "38000"
+      icon : "fa-industry" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
       
     # fanfacts item loop
     - name : "años de experiencia"
-      count : "36"
+      count : "20"
       icon : "fa-calendar" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
       
     # fanfacts item loop
-    - name : "premios recibidos"
-      count : "250"
-      icon : "fa-trophy" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+    - name : "pistas de pretensado"
+      count : "24"
+      icon : "fa-wrench" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
       
     # fanfacts item loop
-    - name : "clientes satisfechos"
-      count : "500"
-      icon : "fa-smile-o" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+    - name : "m² de producción al mes"
+      count : "35000"
+      icon : "fa-cubes" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
 
 
 ################################# feature ############################################
