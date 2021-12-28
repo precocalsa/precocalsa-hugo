@@ -67,11 +67,6 @@ url = "blog"
 weight = 4
 
 [[menu.main]]
-name = "Equipo"
-url = "team"
-weight = 6
-
-[[menu.main]]
 weight = 8
 name = "Pages"
 hasChildren = true
