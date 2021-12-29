@@ -137,21 +137,14 @@ map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 
 ########################### social icon ############################
-[[params.social]]
-icon = "fa-facebook"
-link = "https://facebook.com/themefisher"
 
 [[params.social]]
-icon = "fa-twitter"
-link = "https://twitter.com/themefisher"
+icon = "fa-linkedin"
+link = "https://linkedin.com/precocalsa"
 
-[[params.social]]
-icon = "fa-github"
-link = "https://github.com/themefisher"
-
-[[params.social]]
-icon = "fa-instagram"
-link = "https://instagram.com/themefisher"
+# [[params.social]]
+# icon = "fa-instagram"
+# link = "https://instagram.com/themefisher"
 
 ################################### English language #####################################
 [Languages.en]
