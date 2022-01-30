@@ -1,11 +1,11 @@
 ---
 title: "Rasilla Térmica"
 # meta description
-description: "this is meta description for service page."
+description: "La Rasilla o Tablero Térmico es un tablero autoportante para formación de cubiertas sobre tabiquillos palomeros, compuestos de losa de hormigón pretensado con recubrimiento de poliéstireno expandido que evita puentes térmicos."
 # page title background image
-bg_image: "images/products/rasilla4.jpg"
+bg_image: "images/products/tablero_termico/CIMG1378.JPG"
 # service image
-image: "images/products/rasilla4.jpg"
+image: "images/products/tablero_termico/CIMG1380.JPG"
 # service icon
 icon: "fa-building" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
 # type

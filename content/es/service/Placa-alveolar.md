@@ -4,9 +4,9 @@ categories: ["Forjados Edificación Industrial"]
 # meta description
 description: "this is meta description for service page."
 # page title background image
-bg_image: "images/products/alveolar1.jpg"
+bg_image: "images/products/alveolar/IMG_20201126_112753.jpg"
 # service image
-image: "images/products/alveolar1.jpg"
+image: "images/products/alveolar/IMG_20210712_113253.jpg"
 # service icon
 icon: "fa-hospital-o" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
 # type
@@ -20,3 +20,4 @@ A sus altas prestaciones resistentes se añade también una resistencia al fuego
 Precocalsa fabrica placas alveolares de `15`, `20`, `25`, `30`, `40` y `50 cm` de canto, siendo el ancho estándar de `1,20 m`, pudiendo ser suministrada también en cortes oblicuos y anchos variables para ajustarse a la anchura y forma real del forjado, llegando a longitudes de hasta `19 m`.
 
 También se fabrican placas alveolares para cerramiento mediante placa alveolar machihembrada, en cantos de `15` y `20 cm`, de uso tanto en edificación industrial como residencial, con acabado de hormigón fratasado para la cara exterior.
+

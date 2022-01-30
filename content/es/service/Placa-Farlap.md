@@ -3,9 +3,9 @@ title: "Placa Farlap"
 # meta description
 description: "this is meta description for service page."
 # page title background image
-bg_image: "images/products/farlap1.jpg"
+bg_image: "images/products/farlap/8.jpg"
 # service image
-image: "images/products/farlap1.jpg"
+image: "images/products/farlap/F1000003.JPG"
 # service icon
 icon: "fa-building" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
 # type
@@ -21,3 +21,5 @@ Nuestras placas Farlap pueden formar forjados compuestos de diversos cantos, sie
 Es importante saber que las características de su comportamiento a esfuerzo rasante son las más favorables posibles, ya que la unión de los nervios verticales con el hormigón in situ se realiza mediante engarce en cola de milano, aspecto fundamental que nos distingue de otras prelosas de la competencia.
 
 Debido a su sección y geometría se pueden ofrecer soluciones constructivas muy útiles, como pueden ser la realización de huecos mediante perchas de hormigón, como es el caso de huecos de escaleras o instalaciones, zunchos de borde insertados en el alveolo simplemente retirando la bovedilla, etc. Todos estas soluciones pueden ser consultadas y resueltas por nuestro departamento técnico, que podrá orientar al técnico con la opción más adecuada para el problema que se presente, tanto en proyecto como en obra.
+
+<!-- ![](/images/products/farlap/4.jpg) -->
