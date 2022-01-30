@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "Sobre Nosotros"
 # meta description
-description: "this is meta description"
+description: "Información sobre Precocalsa SA"
 # page title background image
-bg_image_webp: "images/backgrounds/page-title.webp"
-bg_image: "images/backgrounds/page-title.jpg"
+# bg_image_webp: "images/Aereas/1118799.jpg"
+bg_image: "images/Aereas/1118800.jpg"
 ---
 

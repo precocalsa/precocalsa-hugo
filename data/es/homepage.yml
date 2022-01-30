@@ -83,16 +83,16 @@ banner_feature:
 ################################## about ####################################
 about:
   enable : false
-  subtitle : "About Us"
-  title : "We Are Dynamic Team and Business Agency"
-  content : "Excepteur sint occaecat cupidatat non proident sunt iculpa qui officia deserunt mollit anim est. laborum sed perspiciatis unde omnis natus error sit voluptatem accusantium."
-  bg_image : "images/backgrounds/about-us-bg.png"
-  image_webp : "images/about/about-us.webp"
-  image : "images/about/about-us.png"
-  button:
-    enable : true;
-    label : "more service"
-    link : "service"
+  subtitle : "Sobre Precocalsa"
+  title : "Somos una empresa con historia y capacidad"
+  content : "Constituida en 2002, con domicilio en Epila (Zaragoza). Dispone de 38.000 m2 de terreno industrial, de los cuales 11.000 m2 son de nave industrial. Con la reciente ampliación (Diciembre 06), ha duplicado la capacidad de producción. Se ha pasado de 12 a 24 pistas de pretensado. Con esta ampliación la capacidad de producción es de 35.000 m2 de placa al mes."
+  bg_image : "images/Aereas/1118799.jpg"
+  # image_webp : "images/about/about-us.webp"
+  image : "images/Aereas/1118799.jpg"
+  # button:
+  #   enable : false;
+  #   label : "more service"
+  #   link : "service"
 
 ################################## funfacts ###############################
 funfacts :

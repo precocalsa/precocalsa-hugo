@@ -1,6 +1,6 @@
 ################################### philosophy ###########################
 philosophy:
-  enable : true
+  enable : false
   philosophy_item:
     # philosophy item loop
     - title : "Our Mission"
