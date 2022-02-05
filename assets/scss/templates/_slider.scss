@@ -27,13 +27,32 @@
     }
   }
   .container {
+    // :before{
+    //   background-color: blue;
+    //   float: initial;
+    // }
+    h1, h2, h4, p {
+      color: white !important;
+      text-shadow: 3px 3px 3px $text-color-dark;
+    }
     p {
       font-size: 140%;
-      color: $text-color-dark;
+      // color: $text-color-dark;
       font-weight: 800;
-      text-shadow: 1px 1px 1px white; 
+      // text-shadow: 1px 1px 1px white; 
     }
     
+  }
+
+  .btn {
+    // color: white;
+    border-color: white;
+    background-color: white;
+    &:hover{
+      border-color: $primary-color;
+      background-color: $primary-color;
+      color: white;
+    }
   }
 }
 
