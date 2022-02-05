@@ -4,7 +4,10 @@
 }
 
 .hero-slider {
-  overflow-x: hidden;
+  overflow: hidden;
+  max-height: 700px;
+  // opacity: 50%;
+  
 
   .prevArrow {
     left: -100px;

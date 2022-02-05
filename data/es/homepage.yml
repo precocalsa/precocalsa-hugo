@@ -3,11 +3,11 @@ slider:
   enable : true 
   slider_item:
       # slider item
-    - subtitle : "En Precocalsa somos"
-      title : "Una empresa con historia y capacidad"
+    - subtitle : "Somos una empresa con "
+      title : "historia y capacidad"
       content : "Desde que se constituyó en 2002, nuestra gama de productos, capacidad de producción y clientes no han dejado de crecer."
       # bg_image_webp : "images/slider/banner-2.webp"
-      bg_image : "images/Aereas/1118800.jpg"
+      bg_image : "images/slider/banner-aerea.jpg"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -26,21 +26,7 @@ slider:
         label : "more details"
         link : "about"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
-        
-    # slider item
-    - subtitle : "We are here to"
-      title : "Muros"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/banner-3.webp"
-      bg_image : "images/slider/banner-3.jpg"
-      animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "about"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
+  
     # slider item
     - subtitle : "We are here to"
       title : "Muros"

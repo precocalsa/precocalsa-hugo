@@ -11,6 +11,8 @@
     {{ "<!-- slider item -->" | safeHTML }}
     <div class="hero-slider-item bg-cover hero-section"
       style="background-image: url('{{ .bg_image_webp | absURL }}'),url('{{ .bg_image | absURL }}');">
+      <div style="background-color: black; opacity: 0.5;">
+      </div>
       <div class="container">
         <div class="row">
           <div class="col-lg-6" data-duration-in=".3" data-animation-in="{{ .animation }}" data-delay-in=".1">
