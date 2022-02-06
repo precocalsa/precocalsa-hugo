@@ -19,7 +19,7 @@ slider:
       title : "Planning Business"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       # bg_image_webp : "images/slider/banner-1.webp"
-      bg_image : "images/slider/precocalsa29a.jpg"
+      bg_image : "images/slider/IMG_20201126_112753.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -32,7 +32,7 @@ slider:
       title : "Muros"
       content : "Soluciones para cerramientos, muros de contención o incluso depósitos"
       # bg_image_webp : "images/slider/banner-4.webp"
-      bg_image : "images/products/muro/muros19.jpg"
+      bg_image : "images/slider/trailer.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -42,28 +42,28 @@ slider:
 
 ################################## banner feature ############################
 banner_feature:
-  enable : false
+  enable : true
   # Max use 4 item
   feature_item:
+      # banner feature item loop
+    - name : "20 años de experiencia"
+      icon : "fa-calendar" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+      content : "Hacemos prefebricados de hormigón desde 2002, acumulando años de experiencia y _know-how_"
+    
     # banner feature item loop
-    - name : "Business Solution"
-      icon : "fa-diamond" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+    - name : "+38.000 m²"
+      icon : "fa-industry" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+      content : "de terreno industrial, de los cuales 11.000 m2 son de nave industrial, a disposición de nuestros clientes."
+          
+    # banner feature item loop
+    - name : "24"
+      icon : "fa-wrench" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+      content : "pistas de pretensado. Con la ampliación de 2006 se ha pasado de 12 a 24 pistas de pretensado."
       
     # banner feature item loop
-    - name : "Somos una empresa con historia y capacidad"
-      icon : "fa-bar-chart" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-      content : "Desde que se constituyó en 2002, nuestra gama de productos, capacidad de producción y clientes no han dejado de crecer."
-      
-    # banner feature item loop
-    - name : "Business Strategy"
-      icon : "fa-lightbulb-o" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
-      
-    # banner feature item loop
-    - name : "Speed Optimization"
-      icon : "fa-dashboard" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+    - name : "35.000 m²/mes "
+      icon : "fa-cubes" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+      content : "es nuestra capacidad de producción mensual"
 
 
 ################################## about ####################################
@@ -82,7 +82,7 @@ about:
 
 ################################## funfacts ###############################
 funfacts :
-  enable : true
+  enable : false
   funfacts_item :
     # fanfacts item loop
     - name : "m² de terreno"
