@@ -51,10 +51,10 @@ link = "plugins/search/search.js"
 
 ########################### navigation ################################
 # main menu
-[[menu.main]]
-name = "Nosotros"
-url = "about"
-weight = 2
+# [[menu.main]]
+# name = "Nosotros"
+# url = "about"
+# weight = 2
 
 [[menu.main]]
 name = "Productos"
