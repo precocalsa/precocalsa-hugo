@@ -10,7 +10,7 @@ slider:
       bg_image : "images/slider/banner-aerea.jpg"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
-        enable : true
+        enable : false
         label : "Conócenos"
         link : "about"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
