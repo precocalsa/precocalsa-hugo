@@ -68,7 +68,7 @@ banner_feature:
 
 ################################## about ####################################
 about:
-  enable : false
+  enable : true
   subtitle : "Sobre Precocalsa"
   title : "Somos una empresa con historia y capacidad"
   content : "Constituida en 2002, con domicilio en Epila (Zaragoza). Dispone de 38.000 m2 de terreno industrial, de los cuales 11.000 m2 son de nave industrial. Con la reciente ampliación (Diciembre 06), ha duplicado la capacidad de producción. Se ha pasado de 12 a 24 pistas de pretensado. Con esta ampliación la capacidad de producción es de 35.000 m2 de placa al mes."
@@ -140,7 +140,7 @@ team:
 
 ################################# project ############################################
 project:
-  enable : true
+  enable : false
   subtitle : "Algunas obras realizadas con nuestros productos prefabricados"
   title : "Obras destacadas"
   button:
