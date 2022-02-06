@@ -61,10 +61,10 @@ name = "Productos"
 url = "service"
 weight = 3
 
-[[menu.main]]
-name = "PRoyectos"
-url = "project"
-weight = 4
+# [[menu.main]]
+# name = "Proyectos"
+# url = "project"
+# weight = 4
 
 # [[menu.main]]
 # weight = 8
@@ -129,8 +129,8 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 
 # google map
 [params.map]
-enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+enable = false
+# gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 # gmap_api = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d745.3152749214223!2d-0.8837821528587955!3d41.65010037895135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd5914e8e1f4d74b%3A0x2baa075e3cb53945!2zNDHCsDM5JzAwLjQiTiAwwrA1Mic1OS45Ilc!5e0!3m2!1ses!2ses!4v1589478988088!5m2!1ses!2ses"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -169,4 +169,4 @@ home = "Inicio"
 # footer content
 footer_content = "Constituida en 2002, con domicilio en Epila (Zaragoza). Dispone de 38.000 m2 de terreno industrial, de los cuales 11.000 m2 son de nave industrial. Con la reciente ampliación (Diciembre 06), ha duplicado la capacidad de producción. Se ha pasado de 12 a 24 pistas de pretensado. Con esta ampliación la capacidad de producción es de 35.000 m2 de placa al mes."
 # copyright
-copyright = "Copyright &copy; 2020"
+copyright = "Copyright &copy; 2022"
