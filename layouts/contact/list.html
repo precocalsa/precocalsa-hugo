@@ -39,12 +39,9 @@
 <section class="section">
   <div class="container">
     <div class="row">
-      {{ "<!-- google map -->" | safeHTML }}
-      {{ if .Site.Params.map.enable }}
       <div class="col-md-5 mb-5 mb-md-0">
-        <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-1.2799930572509768%2C41.59055612619196%2C-1.244158744812012%2C41.60459690881&amp;layer=mapnik&amp;marker=41.59757689932961%2C-1.2620759010314941" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=41.5976&amp;mlon=-1.2621#map=16/41.5976/-1.2621">View Larger Map</a></small>
+        <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-1.2799930572509768%2C41.59055612619196%2C-1.244158744812012%2C41.60459690881&amp;layer=mapnik&amp;marker=41.59757689932961%2C-1.2620759010314941" style="border: 0px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=41.5976&amp;mlon=-1.2621#map=16/41.5976/-1.2621">Ampliar mapa</a></small>
       </div>
-      {{ end }}
       <div class="col-md-7">
         <h3 class="section-title">{{ i18n "contact_form" }}</h3>
         <form action="{{ .Site.Params.contact_form_action }}" method="POST" class="row" data-netlify="true">
