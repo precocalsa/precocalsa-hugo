@@ -10,17 +10,6 @@ sections:
   path: data/es/homepage.yml
   label: Secciones portada
 - type: heading
-  label: Blog Post
-- type: heading
-  label: Project
-- type: directory
-  path: content/es/project
-  label: Proyecto (es)
-  create: all
-  match: "**/*"
-  templates:
-  - project
-- type: heading
   label: Productos
 - type: directory
   path: content/es/service
@@ -30,33 +19,37 @@ sections:
   templates:
   - service
 - type: heading
+  label: Proyectos
+- type: directory
+  path: content/es/project
+  label: Proyecto (es)
+  create: all
+  match: "**/*"
+  templates:
+  - project
+- type: heading
+  label: Acerca de
+- type: document
+  path: data/es/about.yml
+  label: Secciones de "acerca de"
+  match: "**/*"
+- type: document
+  path: content/es/about/_index.md
+  label: Contenido "acerca de"
+  match: "**/*"
+- type: heading
+  label: Blog Post
+- type: heading
   label: Team
 - type: directory
-  path: exampleSite/content/english/team
-  label: Team (en)
-  create: documents
-  match: "*"
-  templates:
-  - team
-- type: directory
-  path: exampleSite/content/french/team
-  label: Team (fr)
+  path: content/es/team
+  label: Equipo (es)
   create: documents
   match: "*"
   templates:
   - team
 - type: heading
   label: Páginas especiales
-- type: directory
-  path: exampleSite/content/english/about
-  label: About (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/about
-  label: About (fr)
-  create: none
-  match: "*"
 - type: directory
   path: exampleSite/content/english/contact
   label: Contact (en)
@@ -72,7 +65,7 @@ sections:
   label: Todo el contenido en español
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - service
   - project
@@ -80,33 +73,15 @@ sections:
   - post
   - new-page
 - type: heading
-  label: Data
-- type: directory
-  path: exampleSite/data/en
-  label: Data (en)
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/data/fr
-  label: Data (fr)
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/i18n
-  label: i18n
-  create: documents
-  match: "**/*"
-- type: heading
   label: Traducciones
 - type: document
   path: i18n/es.yaml
   label: Traducciones español
 - type: heading
-  label: Configuration
+  label: Configuración
 - type: document
   path: config.toml
   label: Configuración
-  match: "**/*"
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
