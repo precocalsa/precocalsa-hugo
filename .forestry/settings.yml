@@ -66,7 +66,6 @@ sections:
 - type: document
   path: content/es/search/_index.md
   label: Resultados de búsqueda
-  match: "**/*"
 - type: heading
   label: Traducciones
 - type: document
