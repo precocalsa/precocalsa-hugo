@@ -32,11 +32,9 @@ sections:
 - type: document
   path: data/es/about.yml
   label: Secciones de "acerca de"
-  match: "**/*"
 - type: document
   path: content/es/about/_index.md
   label: Contenido "acerca de"
-  match: "**/*"
 - type: heading
   label: Blog Post
 - type: heading
@@ -53,11 +51,6 @@ sections:
 - type: directory
   path: exampleSite/content/english/contact
   label: Contact (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/contact
-  label: Contact (fr)
   create: none
   match: "*"
 - type: directory
