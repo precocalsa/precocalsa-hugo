@@ -9,7 +9,6 @@ sections:
 - type: document
   path: data/es/homepage.yml
   label: Secciones portada
-  match: "**/*"
 - type: heading
   label: Blog Post
 - type: heading
@@ -69,32 +68,16 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/pages
-  label: Created Pages (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - new-page
-- type: directory
-  path: exampleSite/content/french/pages
-  label: Created Pages (fr)
+  path: content/es
+  label: Todo el contenido en español
   create: all
   match: "**/*"
+  new_doc_ext: ".md"
   templates:
-  - new-page
-- type: directory
-  path: exampleSite/content/english
-  label: All Pages (en)
-  create: all
-  match: "**/*"
-  templates:
-  - new-page
-- type: directory
-  path: exampleSite/content/french
-  label: All Pages (fr)
-  create: all
-  match: "**/*"
-  templates:
+  - service
+  - project
+  - team
+  - post
   - new-page
 - type: heading
   label: Data
@@ -118,15 +101,12 @@ sections:
 - type: document
   path: i18n/es.yaml
   label: Traducciones español
-  match: "**/*"
 - type: heading
   label: Configuration
-- type: directory
-  path: ''
-  label: Configuration
-  create: documents
-  match: config.toml
-  new_doc_ext: toml
+- type: document
+  path: config.toml
+  label: Configuración
+  match: "**/*"
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
