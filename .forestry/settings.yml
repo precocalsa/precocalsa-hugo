@@ -5,49 +5,27 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: Portada
+- type: document
+  path: data/es/homepage.yml
+  label: Secciones portada
+  match: "**/*"
+- type: heading
   label: Blog Post
-- type: directory
-  path: exampleSite/content/english/blog
-  label: Post (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - post
-- type: directory
-  path: exampleSite/content/french/blog
-  label: Post (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - post
 - type: heading
   label: Project
 - type: directory
-  path: exampleSite/content/english/project
-  label: Project (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - project
-- type: directory
-  path: exampleSite/content/french/project
-  label: Project (fr)
-  create: documents
+  path: content/es/project
+  label: Proyecto (es)
+  create: all
   match: "**/*"
   templates:
   - project
 - type: heading
-  label: Service
+  label: Productos
 - type: directory
-  path: exampleSite/content/english/service
-  label: Service (en)
-  create: documents
-  match: "*"
-  templates:
-  - service
-- type: directory
-  path: exampleSite/content/french/service
-  label: Service (fr)
+  path: content/es/service
+  label: Producto (es)
   create: documents
   match: "*"
   templates:
@@ -69,7 +47,7 @@ sections:
   templates:
   - team
 - type: heading
-  label: Others Pages
+  label: Páginas especiales
 - type: directory
   path: exampleSite/content/english/about
   label: About (en)
@@ -136,12 +114,18 @@ sections:
   create: documents
   match: "**/*"
 - type: heading
+  label: Traducciones
+- type: document
+  path: i18n/es.yaml
+  label: Traducciones español
+  match: "**/*"
+- type: heading
   label: Configuration
 - type: directory
-  path: exampleSite
+  path: ''
   label: Configuration
-  create: all
-  match: "*.toml"
+  create: documents
+  match: config.toml
   new_doc_ext: toml
 upload_dir: exampleSite/static/images
 public_path: "/images"
