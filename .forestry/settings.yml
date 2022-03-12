@@ -49,11 +49,6 @@ sections:
 - type: heading
   label: Páginas especiales
 - type: directory
-  path: exampleSite/content/english/contact
-  label: Contact (en)
-  create: none
-  match: "*"
-- type: directory
   path: content/es
   label: Todo el contenido en español
   create: all
@@ -65,6 +60,10 @@ sections:
   - team
   - post
   - new-page
+- type: document
+  path: content/es/contact/_index.md
+  label: Contacto (es)
+  match: "**/*"
 - type: heading
   label: Traducciones
 - type: document
