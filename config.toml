@@ -1,23 +1,63 @@
-########################### Default configuration ######################
-baseURL = "/"
-title = "Precocalsa"
-theme = "bexar-hugo"
-# post pagination
-paginate = "6"
-# post excerpt
-summaryLength = "10"
-# disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
-# Site's default language, which will load first with your site load.
 DefaultContentLanguage = "es"
-# disable language
-disableLanguages = ["en"] # desable language from here
-
+baseURL = "/"
+disableLanguages = ["en"]
+disqusShortname = ""
+paginate = "6"
+summaryLength = "10"
+theme = "bexar-hugo"
+title = "Precocalsa"
+[Languages.en]
+contentDir = "content/english"
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit. Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit."
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+weight = 3
+[Languages.es]
+contentDir = "content/es"
+copyright = "Copyright &copy; 2022"
+footer_content = "Constituida en 2002, con domicilio en Epila (Zaragoza). Dispone de 38.000 m2 de terreno industrial, de los cuales 11.000 m2 son de nave industrial. Con la reciente ampliación (Diciembre 06), ha duplicado la capacidad de producción. Se ha pasado de 12 a 24 pistas de pretensado. Con esta ampliación la capacidad de producción es de 35.000 m2 de placa al mes."
+home = "Inicio"
+languageCode = "es-es"
+languageName = "ES"
+weight = 1
+[[menu.footer]]
+name = "Terms of Service"
+url = "terms"
+weight = 1
+[[menu.footer]]
+name = "Privacy Policy"
+url = "privacy-policy"
+weight = 2
+[[menu.main]]
+name = "Productos"
+url = "service"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
-  
-############################### Plugins #################################
-# CSS Plugins
+[params]
+address = "Pol. Ind. Valdemuel. Avda.Tastueña, 5. Épila (Zaragoza)"
+author = "Montera34"
+contact_form_action = "#"
+description = "Prefabricados de hormigón"
+email = "info@precocalsa.es"
+google_analitycs_id = ""
+logo = "images/logo-precocalsa.png"
+logo_footer = "images/logo-alt.png"
+mobile = "+34 976 603 620"
+quick_contact = true
+search = true
+top_header = true
+[params.map]
+enable = false
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+[params.navigation_button]
+enable = true
+label = "Contacto"
+link = "contact"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -28,8 +68,6 @@ link = "plugins/fontawesome/font-awesome.min.css"
 link = "plugins/animate/animate.css"
 [[params.plugins.css]]
 link = "plugins/venobox/venobox.css"
-
-# JS Plugins
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
@@ -48,125 +86,13 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
-
-########################### navigation ################################
-# main menu
-# [[menu.main]]
-# name = "Nosotros"
-# url = "about"
-# weight = 2
-
-[[menu.main]]
-name = "Productos"
-url = "service"
-weight = 3
-
-# [[menu.main]]
-# name = "Proyectos"
-# url = "project"
-# weight = 4
-
-# [[menu.main]]
-# weight = 8
-# name = "Pages"
-# hasChildren = true
-
-#   [[menu.main]]
-#   parent = "Pages"
-#   name = "Project"
-#   url = "project"
-
-# footer menu
-[[menu.footer]]
-name = "Terms of Service"
-url = "terms"
-weight = 1
-
-[[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 2
-
-########################### Default parameters ######################
-[params]
-logo = "images/logo-precocalsa.png"
-logo_footer = "images/logo-alt.png"
-# top header
-top_header = true
-# Meta data
-description = "Prefabricados de hormigón"
-author = "Montera34"
-# contact info
-address = "Pol. Ind Valdemuel. Avda.Tastueña, 5. Épila (Zaragoza)"
-mobile = "+34 976 603 620"
-email = "precocalsa@precocalsa.es"
-# contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
-# Google Analitycs
-google_analitycs_id = "" # your id
-# page sidebar quick contact form
-quick_contact = true
-# search
-search = true
-
-# Preloader
 [params.preloader]
 enable = false
-preloader = "" # use jpg, png, svg or gif format.
-
-# Navigation button
-[params.navigation_button]
-enable = true
-label = "Contacto"
-link = "contact"
-
-# Subscription
+preloader = ""
 [params.subscription]
 enable = false
-# mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
-
-# google map
-[params.map]
-enable = false
-# gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-# gmap_api = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d745.3152749214223!2d-0.8837821528587955!3d41.65010037895135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd5914e8e1f4d74b%3A0x2baa075e3cb53945!2zNDHCsDM5JzAwLjQiTiAwwrA1Mic1OS45Ilc!5e0!3m2!1ses!2ses!4v1589478988088!5m2!1ses!2ses"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
-
-########################### social icon ############################
-
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[params.social]]
 icon = "fa-linkedin"
 link = "https://linkedin.com/precocalsa"
-
-# [[params.social]]
-# icon = "fa-instagram"
-# link = "https://instagram.com/themefisher"
-
-################################### English language #####################################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 3
-home = "Home"
-# footer content
-footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit. Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit."
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-
-
-################################### Spanish language #####################################
-[Languages.es]
-languageName = "ES"
-languageCode = "es-es"
-contentDir = "content/es"
-weight = 1
-home = "Inicio"
-# footer content
-footer_content = "Constituida en 2002, con domicilio en Epila (Zaragoza). Dispone de 38.000 m2 de terreno industrial, de los cuales 11.000 m2 son de nave industrial. Con la reciente ampliación (Diciembre 06), ha duplicado la capacidad de producción. Se ha pasado de 12 a 24 pistas de pretensado. Con esta ampliación la capacidad de producción es de 35.000 m2 de placa al mes."
-# copyright
-copyright = "Copyright &copy; 2022"
