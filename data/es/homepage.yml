@@ -1,193 +1,150 @@
-########################### hero slider ############################
+---
 slider:
-  enable : true 
+  enable: true
   slider_item:
-      # slider item
-    - subtitle : "Somos una empresa con "
-      title : "historia y capacidad"
-      content : "Desde que se constituyó en 2002, nuestra gama de productos, capacidad de producción y clientes no han dejado de crecer."
-      # bg_image_webp : "images/slider/banner-2.webp"
-      bg_image : "images/slider/banner-aerea.jpg"
-      animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : false
-        label : "Conócenos"
-        link : "about"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-    # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      # bg_image_webp : "images/slider/banner-1.webp"
-      bg_image : "images/slider/IMG_20201126_112753.jpg"
-      animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "about"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-  
-    # slider item
-    - subtitle : "We are here to"
-      title : "Muros"
-      content : "Soluciones para cerramientos, muros de contención o incluso depósitos"
-      # bg_image_webp : "images/slider/banner-4.webp"
-      bg_image : "images/slider/trailer.jpg"
-      animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "about"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-
-################################## banner feature ############################
+  - subtitle: 'Somos una empresa con '
+    title: historia y capacidad
+    content: Desde que se constituyó en 2002, nuestra gama de productos, capacidad
+      de producción y clientes no han dejado de crecer.
+    bg_image: images/slider/banner-aerea.jpg
+    animation: fadeInDown
+    button:
+      enable: false
+      label: Conócenos
+      link: about
+      animation: zoomIn
+  - subtitle: We are here to
+    title: Planning Business
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    bg_image: images/slider/IMG_20201126_112753.jpg
+    animation: fadeInUp
+    button:
+      enable: true
+      label: more details
+      link: about
+      animation: zoomIn
+  - subtitle: We are here to
+    title: Muros
+    content: Soluciones para cerramientos, muros de contención o incluso depósitos
+    bg_image: images/slider/trailer.jpg
+    animation: fadeInRight
+    button:
+      enable: true
+      label: more details
+      link: about
+      animation: zoomIn
 banner_feature:
-  enable : true
-  # Max use 4 item
+  enable: true
   feature_item:
-      # banner feature item loop
-    - name : "20 años de experiencia"
-      icon : "fa-calendar" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-      content : "Hacemos prefebricados de hormigón desde 2002, acumulando años de experiencia y _know-how_"
-    
-    # banner feature item loop
-    - name : "+38.000 m²"
-      icon : "fa-industry" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-      content : "de terreno industrial, de los cuales 11.000 m2 son de nave industrial, a disposición de nuestros clientes."
-          
-    # banner feature item loop
-    - name : "24"
-      icon : "fa-wrench" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-      content : "pistas de pretensado. Con la ampliación de 2006 se ha pasado de 12 a 24 pistas de pretensado."
-      
-    # banner feature item loop
-    - name : "35.000 m²/mes "
-      icon : "fa-cubes" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-      content : "es nuestra capacidad de producción mensual"
-
-
-################################## about ####################################
+  - name: 20 años de experiencia
+    icon: fa-calendar
+    content: Hacemos prefebricados de hormigón desde 2002, acumulando años de experiencia
+      y _know-how_
+  - name: "+38.000 m²"
+    icon: fa-industry
+    content: de terreno industrial, de los cuales 11.000 m2 son de nave industrial,
+      a disposición de nuestros clientes.
+  - name: "24"
+    icon: fa-wrench
+    content: pistas de pretensado. Con la ampliación de 2006 se ha pasado de 12 a
+      24 pistas de pretensado.
+  - name: '35.000 m²/mes '
+    icon: fa-cubes
+    content: es nuestra capacidad de producción mensual
 about:
-  enable : true
-  subtitle : "Sobre Precocalsa"
-  title : "Somos una empresa con historia y capacidad"
-  content : "Constituida en 2002, con domicilio en Epila (Zaragoza). Dispone de 38.000 m2 de terreno industrial, de los cuales 11.000 m2 son de nave industrial. Con la reciente ampliación (Diciembre 06), ha duplicado la capacidad de producción. Se ha pasado de 12 a 24 pistas de pretensado. Con esta ampliación la capacidad de producción es de 35.000 m2 de placa al mes."
-  bg_image : "images/Aereas/1118799.jpg"
-  # image_webp : "images/about/about-us.webp"
-  image : "images/Aereas/1118799.jpg"
-  # button:
-  #   enable : false;
-  #   label : "more service"
-  #   link : "service"
-
-################################## funfacts ###############################
-funfacts :
-  enable : false
-  funfacts_item :
-    # fanfacts item loop
-    - name : "m² de terreno"
-      count : "38000"
-      icon : "fa-industry" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-      
-    # fanfacts item loop
-    - name : "años de experiencia"
-      count : "20"
-      icon : "fa-calendar" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-      
-    # fanfacts item loop
-    - name : "pistas de pretensado"
-      count : "24"
-      icon : "fa-wrench" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-      
-    # fanfacts item loop
-    - name : "m² de producción al mes"
-      count : "35000"
-      icon : "fa-cubes" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-
-
-################################# feature ############################################
+  enable: true
+  subtitle: Sobre Precocalsa
+  title: Somos una empresa con historia y capacidad
+  content: Constituida en 2002, con domicilio en Épila (Zaragoza). Dispone de 38.000
+    m2 de terreno industrial, de los cuales 11.000 m2 son de nave industrial. Con
+    la ampliación llevada a cabo se duplicó la capacidad de producción. Se ha pasado
+    de 12 a 24 pistas de pretensado. Con esta ampliación la capacidad de producción
+    es de 35.000 m2 de placa al mes.
+  bg_image: images/Aereas/1118799.jpg
+  image: images/Aereas/1118799.jpg
+funfacts:
+  enable: false
+  funfacts_item:
+  - name: m² de terreno
+    count: "38000"
+    icon: fa-industry
+  - name: años de experiencia
+    count: "20"
+    icon: fa-calendar
+  - name: pistas de pretensado
+    count: "24"
+    icon: fa-wrench
+  - name: m² de producción al mes
+    count: "35000"
+    icon: fa-cubes
 feature:
-  enable : false
-  subtitle : "Why Choose Us"
-  title : "Why They Choose Bexar"
-  image_webp : "images/feature/feature.webp"
-  image : "images/feature/feature.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius tempor incididunt ut labore."
+  enable: false
+  subtitle: Why Choose Us
+  title: Why They Choose Bexar
+  image_webp: images/feature/feature.webp
+  image: images/feature/feature.jpg
+  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius tempor
+    incididunt ut labore.
   feature_item:
-    # feature item loop
-    - name : "Creative Design"
-      icon : "fa-snowflake-o" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-      content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
-      
-    # feature item loop
-    - name : "Pixel Perfect Coding"
-      icon : "fa-code" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-      content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
-
-################################# service ############################################
+  - name: Creative Design
+    icon: fa-snowflake-o
+    content: Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia.
+  - name: Pixel Perfect Coding
+    icon: fa-code
+    content: Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia.
 service:
-  enable : true
-  subtitle : "Pefabricados de hormigón para todos los usos"
-  title : "Nuestros productos"
-  # service item comes from "content/*/service" folder
-
-################################# team ##############################################
+  enable: true
+  subtitle: Pefabricados de hormigón para todos los usos
+  title: Nuestros productos
 team:
-  enable : false
-  subtitle : "Our Team"
-  title : "We Are Dynamic Team and <br> Business Agency"
-  # team member comes from "content/*/team" folder
-
-################################# project ############################################
+  enable: false
+  subtitle: Our Team
+  title: We Are Dynamic Team and <br> Business Agency
 project:
-  enable : false
-  subtitle : "Algunas obras realizadas con nuestros productos prefabricados"
-  title : "Obras destacadas"
+  enable: false
+  subtitle: Algunas obras realizadas con nuestros productos prefabricados
+  title: Obras destacadas
   button:
-    enable : true
-    label : "Más proyectos"
-    link : "project"
-  # project item comes from "content/*/project" folder
-
-################################# testimonial #########################################
+    enable: true
+    label: Más proyectos
+    link: project
 testimonial:
-  enable : false
-  subtitle : "Testimonials"
-  title : "What Clients Are Say?"
+  enable: false
+  subtitle: Testimonials
+  title: What Clients Are Say?
   testimonial_item:
-    # testimonial item loop
-    - client_image : "images/testimonial/client-1.jpg"
-      name : "Dominic Allen"
-      designation : "Designer"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute irure dolor in reprehen."
-      
-    # testimonial item loop
-    - client_image : "images/testimonial/client-2.jpg"
-      name : "Alex Pitt"
-      designation : "Designer"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute irure dolor in reprehen."
-
-    # testimonial item loop
-    - client_image : "images/testimonial/client-3.jpg"
-      name : "John Doe"
-      designation : "Designer"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute irure dolor in reprehen."
-
-
-################################# blog ################################################
+  - client_image: images/testimonial/client-1.jpg
+    name: Dominic Allen
+    designation: Designer
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod
+      tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud
+      exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute
+      irure dolor in reprehen.
+  - client_image: images/testimonial/client-2.jpg
+    name: Alex Pitt
+    designation: Designer
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod
+      tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud
+      exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute
+      irure dolor in reprehen.
+  - client_image: images/testimonial/client-3.jpg
+    name: John Doe
+    designation: Designer
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod
+      tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud
+      exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute
+      irure dolor in reprehen.
 cta:
-  enable : false
-  title : "Bexar give the smart solution for your business"
-  bg_image_webp : "images/backgrounds/cta-lg.webp"
-  bg_image : "images/backgrounds/cta-lg.jpg"
+  enable: false
+  title: Bexar give the smart solution for your business
+  bg_image_webp: images/backgrounds/cta-lg.webp
+  bg_image: images/backgrounds/cta-lg.jpg
   button:
-    enable : true
-    label : "Ponte en contacto con nosotros"
-    link : "contact"
-
-################################# blog ################################################
+    enable: true
+    label: Ponte en contacto con nosotros
+    link: contact
 blog:
-  enable : false
-  subtitle : "Lo último en precocalsa"
-  title : "Noticias"
-  # blog post comes from "content/*/blog" folder
+  enable: false
+  subtitle: Lo último en precocalsa
+  title: Noticias
