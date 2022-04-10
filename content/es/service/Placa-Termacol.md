@@ -1,20 +1,18 @@
 ---
-title: "Placa Termacol"
-# meta description
-description: "this is meta description for service page."
-# page title background image
-bg_image_webp: "images/backgrounds/page-title.webp"
-bg_image: "images/backgrounds/page-title.jpg"
-# service image
-# image_webp: "images/service/service-6.webp"
-image: "images/products/termacol5.jpg"
-# service icon
-icon: "fa-building" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-# type
-type: "service"
----
+title: Placa Termacol
+description: this is meta description for service page.
+bg_image_webp: images/backgrounds/page-title.webp
+bg_image: images/backgrounds/page-title.jpg
+image: images/products/termacol5.jpg
+icon: fa-building
+type: service
 
-La placa Termacol es un sistema compacto de vigueta pretensada y bovedilla de porex con rotura de puente térmico inferior de 3 cm, que a su vez ofrece unas prestaciones resistentes elevadas. Su uso más habitual es para forjados de edificación residencial, ofreciendo un aislamiento térmico excelente y, gracias al diseño de su sección, una enlazabilidad sencilla y efectiva con la estructura, pudiendo realizar forjados planos, sin vigas de cuelgue, con una relación entre resistencia y peso propio entre las mejores posibles. Es en todo caso un sistema de forjado compuesto con unos resultados ventajosos frente al sistema unidireccional in situ. Nuestras placas Termacol son totalmente autoportantes para luces de hasta 8,00 m en canto de 3+22+5 cm y de hasta 9,00 m en canto de 3+27+5 cm, lo que supone en todo caso una ventaja constructiva fundamental por la mejora correspondiente en los rendimientos de trabajo y de costes de ejecución. Además, debido a su compacidad, las placas Termacol son transitables en obra sin peligro de desprendimiento del porex, incluso del lateral, pudiendo soportar más de 200 kg de carga puntual de huella de hombre. Así, nuestras placas Termacol son una opción especialmente interesante para la construcción de forjados sanitarios.
+---
+La placa Termacol es un sistema compacto de vigueta pretensada y bovedilla de porex con rotura de puente térmico inferior de 3 cm, que a su vez ofrece unas prestaciones resistentes elevadas. Su uso más habitual es para forjados de edificación residencial, ofreciendo un aislamiento térmico excelente.
+
+Gracias al diseño de su sección, una enlazabilidad sencilla y efectiva con la estructura, pudiendo realizar forjados planos, sin vigas de cuelgue, con una relación entre resistencia y peso propio entre las mejores posibles. Es en todo caso un sistema de forjado compuesto con unos resultados ventajosos frente al sistema unidireccional in situ. Nuestras placas <body> <p style="color:#FF0000";>Termacol</p> </body> son totalmente autoportantes para luces de hasta 8,00 m en canto de 3+22+5 cm y de hasta 9,00 m en canto de 3+27+5 cm, lo que supone en todo caso una ventaja constructiva fundamental por la mejora correspondiente en los rendimientos de trabajo y de costes de ejecución. 
+
+Debido a su compacidad, las placas Termacol son transitables en obra sin peligro de desprendimiento del porex, incluso del lateral, pudiendo soportar más de 200 kg de carga puntual de huella de hombre. Así, nuestras placas Termacol son una opción especialmente interesante para la construcción de forjados sanitarios.
 
 Respecto a su resistencia al fuego, Termacol se ofrece en resistencias habituales de 30 y 60 minutos, pudiendo llegar hasta los 90 minutos, de forma que estos forjados se pueden emplear en edificios de viviendas, con alturas habituales de 3 m entre plantas, de hasta 9 pisos de altura.
 
