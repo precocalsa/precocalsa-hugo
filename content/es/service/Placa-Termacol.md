@@ -1,6 +1,7 @@
 ---
 title: Placa Termacol
-description: this is meta description for service page.
+description: forjado, vivienda, Termacol, placa aligerada, Passivhaus, forjado ligero,
+  poliestireno, porex, bovedilla
 bg_image_webp: images/backgrounds/page-title.webp
 bg_image: "/images/019_17.JPG"
 image: "/images/terma19.jpg"
