@@ -6,6 +6,7 @@ bg_image: "/images/019_17-portada.jpg"
 image: images/products/termacol5.jpg
 icon: fa-building
 type: service
+draft: true
 
 ---
 La placa Termacol es un sistema compacto de vigueta pretensada y bovedilla de porex con rotura de puente térmico inferior de 3 cm, que a su vez ofrece unas prestaciones resistentes elevadas. Su uso más habitual es para forjados de edificación residencial, ofreciendo un aislamiento térmico excelente.
