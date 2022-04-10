@@ -13,10 +13,10 @@ slider:
       label: Conócenos
       link: about
       animation: zoomIn
-  - subtitle: We are here to
-    title: Planning Business
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - subtitle: Cualquier solución en forjado y viga prefabricado
+    title: Ofrecemos soluciones
+    content: Nuestro departamento técnico aporta soluciones a sus proyectos. En constante
+      colaboración apoyamos a los técnicos en el desarrollo de sus necesidades proyectuales.
     bg_image: images/slider/IMG_20201126_112753.jpg
     animation: fadeInUp
     button:
