@@ -3,7 +3,7 @@ title: Placa Termacol
 description: forjado, vivienda, Termacol, placa aligerada, Passivhaus, forjado ligero,
   poliestireno, porex, bovedilla
 bg_image_webp: images/backgrounds/page-title.webp
-bg_image: "/images/019_17-portada.jpg"
+bg_image: "/images/slider/precocalsa29a.jpg"
 image: "/images/terma19.jpg"
 icon: fa-building
 
