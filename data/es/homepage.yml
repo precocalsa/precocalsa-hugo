@@ -27,7 +27,7 @@ slider:
   - subtitle: Prefabricados de grandes cargas y luces.
     title: Muros, elementos de forjado y cubierta.
     content: Soluciones para cerramientos, muros de contención o incluso depósitos
-    bg_image: images/muros19.jpg
+    bg_image: images/muro.jpg
     animation: fadeInRight
     button:
       enable: true
