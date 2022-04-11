@@ -2,7 +2,7 @@
 title: Muros prefabricados
 description: this is meta description for service page.
 bg_image: images/products/muros1.jpg
-image: images/products/muros1.jpg
+image: "/images/cocalsa22m.jpg"
 icon: fa-building
 
 ---
