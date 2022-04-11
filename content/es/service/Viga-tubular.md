@@ -18,4 +18,4 @@ Si se usan como correas de naves formando parte de cubiertas ligeras, su uso má
 
 Nuestras vigas tubulares se fabrican en cantos de 20, 25, 30 y 40 cm. Dependiendo de las condiciones de carga y longitud necesarias nuestro departamento técnico podrá asesorarles para determinar el canto más adecuado en cada caso.
 
-Por lo que respecta a su resistencia al fuego, como elemento aislado en cubiertas ligeras podemos considerar que es de 30 minutos, que para los casos más generales es suficiente. En el caso de forjados la resistencia al fuego puede ser similar a la que se obtiene con los forjados pretensados convencionales, es decir, desde 30 hasta 120 minuto.
+Por lo que respecta a su resistencia al fuego, como elemento aislado en cubiertas ligeras podemos considerar que es de 30 minutos, que para los casos más generales es suficiente. En el caso de forjados la resistencia al fuego puede ser similar a la que se obtiene con los forjados pretensados convencionales, es decir, desde 30 hasta 120 minutos.
