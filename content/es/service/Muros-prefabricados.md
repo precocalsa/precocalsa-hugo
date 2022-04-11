@@ -17,13 +17,17 @@ MONTAJE EN OBRA
 
 Cada panel se monta de forma independiente al resto, siendo necesarias 4 cuñas de manera y un puntal llamado "de doble efecto", ya que sirve para empujar o recoger al prefabricado para su aplomado. No son necesarias ni reglas alineadoras ni latiguillos o barras tipo dywidag. Se coloca mediante grúa torre (para alturas menores de 3,5 m) o mediante autogrúa, directamente desde el camión, montándose cada panel en 10 minutos con sólo 3 hombres. El tiempo de ejecución de un muro clásico de 6 m de altura y 15 m de longitud es de 3 días, ya que implica el uso de un sobre-andamio para ejecutar la segunda altura del muro. El nuevo sistema de muros permite, en un solo día, dejar terminado un muro de 6 m de altura por 20 m de longitud, totalmente rematado.
 
+![](/images/cocalsa1m.jpg)
+
 CARACTERÍSTICAS TÉCNICAS
 
-El ancho es estándar de 1,2 m aunque para remates también se fabrican de ancho a demanda. Asimismo la coronación se fabrica con inclinación para formar aletas o pendientes. El espesor de muro es a demanda del cliente. El prefabricado y el interior son de hormigón HA-25. El acero es de tipo B-500S. Los recubrimientos, por ser panel prefabricado en factoría, son de 2 cm. 
+El ancho es estándar de 1,2 m aunque para remates también se fabrican de ancho a demanda. Asimismo la coronación se fabrica con inclinación para formar aletas o pendientes. El espesor de muro es a demanda del cliente. El prefabricado y el interior son de hormigón HA-25. El acero es de tipo B-500S. Los recubrimientos, por ser panel prefabricado en factoría, son de 2 cm.
 
 SEGURIDAD EN EL TRABAJO
 
 Muy adecuado para terrenos con peligro de desprendimientos, ya que el trabajador no tiene que acceder al trasdós del muro para montar paneles. El sistema dispone de ménsula de hormigonado que colocan colgadas solamente a una cara de los paneles prefabricados.
+
+![](/images/f1010011.JPG)
 
 MONOLITISMO ABSOLUTO
 
@@ -50,3 +54,5 @@ DEPÓSITOS DE AGUA
 
 Se aplica también para construir depósitos de agua, ya que a diferencia de otras tipologías de muro prefabricado, el muro queda MACIZADO de manera continua en obra.
 En los depósitos de agua solamente, se sellarán las juntas verticales y las horizontales de unión con solera. El depósito puede ser de tipo enterrado o de tipo aéreo o elevado.
+
+![](/images/muros11.jpg)
