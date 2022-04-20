@@ -1,5 +1,5 @@
 ---
-title: Viga tubular
+title: Viga Tubular
 categories:
 - Forjados Edificación Industrial
 description: Viga tubular, vigueta, correa, cercha, delta, cubierta, tejado, estructura.
