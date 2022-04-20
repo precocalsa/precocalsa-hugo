@@ -16,6 +16,8 @@ A sus altas prestaciones resistentes se añade también una resistencia al fuego
 
 Precocalsa fabrica placas alveolares de `15`, `20`, `25`, `30`, `40` y `50 cm` de canto, siendo el ancho estándar de `1,20 m`, pudiendo ser suministrada también en cortes oblicuos y anchos variables para ajustarse a la anchura y forma real del forjado, llegando a longitudes de hasta `19 m`.
 
+![](/images/20170703_175928.jpg)
+
 También se fabrican placas alveolares para cerramiento mediante placa alveolar machihembrada, en cantos de `15` y `20 cm`, de uso tanto en edificación industrial como residencial, con acabado de hormigón fratasado para la cara exterior.
 
 ![Cafetería Baqueira/Beret](/images/img_9116.JPG "Forjado alveolar cafetería Baqueira/Beret")
