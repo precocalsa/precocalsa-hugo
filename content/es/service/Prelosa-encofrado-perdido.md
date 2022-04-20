@@ -3,8 +3,8 @@ title: Vigueta Sencilla
 categories:
 - Forjados Edificación Industrial
 description: Vigueta, correa, prefabricado, elemento lineal, hormigón, prefabricado
-bg_image: "/images/web-20170512_161530.jpg"
-image: "/images/precon.jpg"
+bg_image: "/images/20170512_161530.jpg"
+image: "/images/web-20170512_161530.jpg"
 icon: fa-truck
 
 ---
