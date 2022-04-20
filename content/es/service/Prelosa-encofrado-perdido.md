@@ -1,5 +1,5 @@
 ---
-title: Vigueta sencilla
+title: Vigueta Sencilla
 categories:
 - Forjados Edificación Industrial
 description: Vigueta, correa, prefabricado, elemento lineal, hormigón, prefabricado
