@@ -1,5 +1,5 @@
 ---
-title: Placa Prencper
+title: Placa Encofrado Perdido (Prencper)
 description: this is meta description for service page.
 bg_image: "/images/precon.jpg"
 image: "/images/precon-losa.JPG"
