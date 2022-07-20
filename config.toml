@@ -37,7 +37,7 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "Pol. Ind. Valdemuel. Avda.Tastueña, 5. Épila (Zaragoza)"
+address = "Pol. Ind. Valdemuel. Avda. Tastueña, 5. Épila (Zaragoza)"
 author = "Montera34"
 contact_form_action = "#"
 description = "Prefabricados de hormigón"
