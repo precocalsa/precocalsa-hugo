@@ -37,7 +37,7 @@ slider:
 banner_feature:
   enable: true
   feature_item:
-  - name: 20 años de experiencia
+  - name: 23 años de experiencia
     icon: fa-calendar
     content: Hacemos prefabricados de hormigón desde 2002, acumulando años de experiencia
       y _know-how_
@@ -58,9 +58,8 @@ about:
   title: Somos una empresa con historia y capacidad
   content: Constituida en 2002, con domicilio en Épila (Zaragoza). Dispone de 38.000
     m2 de terreno industrial, de los cuales 11.000 m2 son de nave industrial. Con
-    la ampliación llevada a cabo se duplicó la capacidad de producción. Se ha pasado
-    de 12 a 24 pistas de pretensado. Con esta ampliación la capacidad de producción
-    es de 35.000 m2 de placa al mes.
+    la ampliación llevada a cabo se duplicó la capacidad de producción pasando de 12 a 24 pistas de pretensado.
+    Con esta ampliación la capacidad de producción es de 35.000 m2 de placa al mes.
   bg_image: images/Aereas/1118799.jpg
   image: images/Aereas/1118799.jpg
 funfacts:
